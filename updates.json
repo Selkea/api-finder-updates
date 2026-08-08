@@ -1,0 +1,18 @@
+{
+    "addons":  {
+                   "api-finder@selkea.dev":  {
+                                                 "updates":  [
+                                                                 {
+                                                                     "version":  "0.4.2",
+                                                                     "update_link":  "https://raw.githubusercontent.com/Selkea/api-finder-updates/main/xpi/api-finder-firefox-0.4.2-signed.xpi",
+                                                                     "update_hash":  "sha256:05801d5f3e330bba7dc5492241ab745cde3ff4732d1ce0f0766ad05471b07cc0",
+                                                                     "applications":  {
+                                                                                          "gecko":  {
+                                                                                                        "strict_min_version":  "140.0"
+                                                                                                    }
+                                                                                      }
+                                                                 }
+                                                             ]
+                                             }
+               }
+}
