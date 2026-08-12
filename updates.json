@@ -51,6 +51,16 @@
                                                                                                         "strict_min_version":  "140.0"
                                                                                                     }
                                                                                       }
+                                                                 },
+                                                                 {
+                                                                     "version":  "0.6.0",
+                                                                     "update_link":  "https://raw.githubusercontent.com/Selkea/api-finder-updates/main/xpi/api-finder-firefox-0.6.0-signed.xpi",
+                                                                     "update_hash":  "sha256:4ba2b6c9be9073c23fc955bc6da99bcc11a79b4e313a267c8d947f0c1c1e4d2c",
+                                                                     "applications":  {
+                                                                                          "gecko":  {
+                                                                                                        "strict_min_version":  "140.0"
+                                                                                                    }
+                                                                                      }
                                                                  }
                                                              ]
                                              }
